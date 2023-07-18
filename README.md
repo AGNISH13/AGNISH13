@@ -17,7 +17,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AGNISH13&theme=nightowl&hide_border=false)<br/>
 
-![Snake animation](https://github.com/AGNISH13/AGNISH13/blob/output/github-contribution-grid-snake.svg)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AGNISH13&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
