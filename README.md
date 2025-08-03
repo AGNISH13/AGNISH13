@@ -1,9 +1,9 @@
 ### Welcome to my GitHub Space!👋
 
 ## 💫 About Me:
-  I am Agnish Bhattacharya, currently a Management Trainee at **SMFG India Credit Co. Ltd.** <br>
+  I am Agnish Bhattacharya, currently an Analytics professional at **SMFG India Credit Co. Ltd.** <br>
   I have done my Bachelors in **Electrical Engineering** from **Jadavpur University, Kolkata, India**. <br>
-  I have interests in Machine Learning, Deep Learning, Generative Networks, Medical Image Analysis and Data-Imbalance Handling.
+  I have interests in Data Interpretation, Machine Learning, Deep Learning, Generative Networks, Medical Image Analysis and Data-Imbalance Handling.
 
 ## 🌐 Reach Me:
 
